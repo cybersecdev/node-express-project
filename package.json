@@ -1,0 +1,17 @@
+{
+    "name": "nodejs-image-demo",
+    "version": "1.0.0",
+    "description": "nodejs image demo",
+    "author": "cybersecdev1 <cybersec.dev1@gmail.com>",
+    "license": "MIT",
+    "main": "app.js",
+    "keywords": [
+        "node.js",
+        "bootstrap",
+        "express"
+    ],
+    "dependencies": {
+        "express": "^4.16.4",
+        "helmet": "^4.6.0"
+    }
+}
